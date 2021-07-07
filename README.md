@@ -8,13 +8,13 @@
 <br>
 <hr />
 
-### Página de Perfil:  
+### Página de Perfil | Tela inicial:  
 
-A página de login possui imagem e quatro botões, um para Unlike (ícone X), um para dar Match (ícone coração), um para ir para a página de Matches (icone casal coracao) e outro para voltar para a página de perfil (ícone de mãos com coração). Ao clicar em Unlike, o usuário deverá ser redirecionado para o próximo perfil. Ao clicar em Match, o usuário poderá ir até a página de Matchs e verificar se deu Match.
+Ao entrar na nossa aplicação, o usuário deve ser capaz de ver uma opção de perfil para escolher. Devem ser mostrados a foto, o nome e a descrição do dos perfis. Dois botões devem estar na tela: um que permita "dar match" (uma escolha "positiva") e o outro que permita descartar a sugestão (uma escolha "negativa"). Por fim, deve existir um botão que leve para a tela de matches.
 <hr />
 
-### Página de Matches:
-A página de Matches mostra os perfis que deram Match com o usuário.
+### Página de Matches | Tela de matches:
+Essa tela é constituída de uma lista de usuários que "deram match" com o usuário que estiver usando a nossa aplicação. Devem ser mostrados as fotos e os nomes dos perfis. 
 <hr />
 
 
