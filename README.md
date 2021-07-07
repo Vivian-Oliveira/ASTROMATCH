@@ -4,7 +4,7 @@
 👉 Status: Concluído ✅👏
 </h4>
 
-### Esse projeto é inspirado no Tinder. Trata-se de uma mini rede social de relacionamentos, com tela de perfil e matches.
+### Esse projeto é inspirado no Tinder. Trata-se de uma rede social de relacionamentos, com tela de perfil e tela de matches.
 <br>
 <hr />
 
