@@ -49,7 +49,7 @@ As seguintes tecnologias foram usadas na construção do projeto:
 ##### Passo 1. Clone este repositório:
 $ git clone ....
 ##### Passo 2. Acesse a pasta do projeto no terminal/cmd:
-$ cd labeddit
+$ cd astromatch
 ##### Passo 3. Instale as dependências:
 $ npm install
 ##### Passo 4. Rode o projeto:
